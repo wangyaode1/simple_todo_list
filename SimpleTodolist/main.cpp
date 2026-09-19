@@ -4,10 +4,21 @@
 
 #include "TodoModel.h"
 #include "TodoManager.h"
+#include <QIcon>
+#include <QFile>
+#include <QDirIterator>
+#include <QDebug>
+
 
 int main(int argc, char *argv[])
 {
+
+
     QGuiApplication app(argc, argv);
+
+    app.setWindowIcon(
+        QIcon(":/qt/qml/SimpleTodolist/Pictures/Avatar/CatProfile.jpg")
+        );
 
     QQmlApplicationEngine engine;
 
