@@ -4,7 +4,7 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="QML" src="https://img.shields.io/badge/QML-UI-2D3436?style=for-the-badge&logo=qt&logoColor=white">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows_64bit-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img alt="Version" src="https://img.shields.io/badge/Version-0.1.2-blue?style=for-the-badge">
+  <img alt="Version" src="https://img.shields.io/badge/Version-1.0.1-blue?style=for-the-badge">
 </p>
 
 
@@ -13,7 +13,7 @@
 
 ![Made with little like](https://img.shields.io/badge/MADE%20WITH-LITTLE%20LIKE-ff69b4?style=for-the-badge)
 
-<img src="https://count.getloli.com/@todolist?name=todolist&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="todolist">
+<img src="https://count.getloli.com/@todolist?name=todolist&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="todolist">
 
 </div>
 
