@@ -26,4 +26,7 @@
 本软件仅支持 Windows 64位平台，暂不提供 Linux、macOS 版本。
 
 # <img src="https://img.shields.io/badge/安装方法-3FB950?style=for-the-badge&logo=installer&logoColor=white" align="absmiddle">
+## Windows版本安装
 下载 Release 包中的 `TodoList.exe`，双击安装即可。
+## Linux版本安装
+加工中...
